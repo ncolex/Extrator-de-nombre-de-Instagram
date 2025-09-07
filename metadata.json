@@ -1,0 +1,5 @@
+{
+  "name": "Insta-Extractor AI",
+  "description": "An AI-powered tool to extract Instagram usernames from multiple images at once. Upload your photos, and the app will generate a list of clickable Instagram profile links.",
+  "requestFramePermissions": []
+}
